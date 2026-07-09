@@ -1,7 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { SERVICES, POPULAR_PACKAGES, STYLISTS, WHY_CHOOSE_US, REVIEWS, BUSINESS_STATS, FAQs, GALLERY_ITEMS } from '../data'
-import './index.css'
+import '../index.css'
+
 
 // यहाँ आपकी Royal Cuts सैलून की पूरी मुख्य डिज़ाइन रेंडर होगी
 ReactDOM.createRoot(document.getElementById('root')!).render(

@@ -1,8 +1,8 @@
 import { Service, Package, Stylist, Review, FAQItem, GalleryItem } from './types';
-import heroImg from './assets/images/royal_cuts_hero_1782125101399.jpg';
-import stylingImg from './assets/images/haircut_beard_styling_1782125118210.jpg';
-import groomingImg from './assets/images/grooming_setup_1782125135078.jpg';
-import hairColorImg from './assets/images/hair_coloring_session_1782126053615.jpg';
+import heroImg from './src/assets/images/royal_cuts_hero_1782125101399.jpg';
+import stylingImg from './src/assets/images/haircut_beard_styling_1782125118210.jpg';
+import groomingImg from './src/assets/images/grooming_setup_1782125135078.jpg';
+import hairColorImg from './src/assets/images/hair_coloring_session_1782126053615.jpg';
 
 // Let's reference our premium generated images and beautiful Unsplash placeholders
 export const HERO_IMAGE_URL = heroImg;
